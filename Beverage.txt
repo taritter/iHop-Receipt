@@ -1,0 +1,8 @@
+Coffee|1.99
+Hot Chocolate|2.49
+IHOP Spashers|2.49
+Fruit Juices|2.69
+Milk|2.49
+Rootbeer|2.49
+Sierra Mist|2.49
+House-Made Milkshakes|3.79
